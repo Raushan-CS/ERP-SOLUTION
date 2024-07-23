@@ -1,0 +1,22 @@
+.search-container {
+    float: right;
+    margin-top: 10px;
+}
+
+
+
+#txtSearch {
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+
+#btnSearch {
+    padding: 5px 10px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+}
+
+
+
